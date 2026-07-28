@@ -64,24 +64,13 @@ Building projects, learning consistently, and documenting my journey one commit 
 - Get a Software Development Internship
 
 
-## 📊 GitHub Stats
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViditaVerma&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ViditaVerma&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ViditaVerma&theme=tokyonight)
-
-
-
 ## 📫 Connect With Me
 
 💼 LinkedIn: https://www.linkedin.com/in/vidita-verma-20a24b326
 
 
 ⭐ Fun Fact:
-I believe consistency beats talent. Every commit is one step closer to becoming a better developer.
+🎨 I love mixing creativity with technology.
+
 
 

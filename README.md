@@ -66,14 +66,19 @@ Building projects, learning consistently, and documenting my journey one commit 
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViditaVerma&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ViditaVerma&layout=compact&theme=tokyonight)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=ViditaVerma&theme=tokyonight)
+
+
 
 ## 📫 Connect With Me
 
-💼 LinkedIn: Add your LinkedIn URL here
+💼 LinkedIn: https://www.linkedin.com/in/vidita-verma-20a24b326
 
 
 ⭐ Fun Fact:
